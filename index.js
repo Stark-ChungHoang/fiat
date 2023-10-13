@@ -1,6 +1,6 @@
 
 import axios from "axios"
-const TIMEOUT = 1000 * 60 * 5
+const TIMEOUT = 1000 * 60 * 60
 
 async function callApi() {
     try {
