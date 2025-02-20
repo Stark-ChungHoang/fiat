@@ -1,0 +1,12 @@
+{
+    "name": "LU BU",
+    "symbol": "LUBU",
+    "description": "Only Possible On Solana",
+    "image": "https://github.com/Stark-ChungHoang/fiat/blob/main/5d60cbcd623d7f237f69356913cb35ab.png?raw=true",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
